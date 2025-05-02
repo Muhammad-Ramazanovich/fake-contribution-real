@@ -16,7 +16,7 @@ I'm a passionate **DevOps engineer**, **AI developer**, and **mobile/web app bui
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:10B981&height=200&section=header&text=Abdul%20Alameda&fontSize=40&fontAlignY=35&desc=DevOps%20%7C%20AI%20%7C%20Fullstack&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Abdul%20Alameda&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=DevOps%20%7C%20AI%20%7C%20Fullstack&descSize=20&descColor=eeeeee"/>
 </p>
 
 ---
@@ -55,19 +55,19 @@ I'm a passionate **DevOps engineer**, **AI developer**, and **mobile/web app bui
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ramazanovich&theme=react-dark&hide_border=true&bg_color=1A1B27" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ramazanovich&theme=dracula&hide_border=true&bg_color=1e1e2f&line=ff6ac1&point=ffffff&color=ffffff" />
   <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Ramazanovich&theme=monokai&no-frame=true&column=7&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Ramazanovich&theme=gruvbox&no-frame=true&column=7&margin-w=5" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ramazanovich&show_icons=true&theme=radical&rank_icon=percentile&include_all_commits=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ramazanovich&show_icons=true&theme=omni&rank_icon=percentile&include_all_commits=true&hide_title=false&hide_border=true" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ramazanovich&layout=compact&theme=radical&hide=html&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ramazanovich&layout=compact&theme=omni&hide=html&langs_count=8&hide_border=true" />
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DA70D6,100:7F00FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c3ff,100:ffff1c&height=120&section=footer"/>
 </p>
 
 <!---
