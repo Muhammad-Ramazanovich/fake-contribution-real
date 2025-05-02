@@ -21,7 +21,7 @@ I'm a passionate **DevOps engineer**, **AI developer**, and **mobile/web app bui
 
 ---
 
-## 🧠 My Skill Sets (True 3D Style)
+## 🧠 My Skill Sets
 
 <div align="center">
 
