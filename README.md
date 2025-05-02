@@ -21,7 +21,7 @@ I'm a passionate **DevOps engineer**, **AI developer**, and **mobile/web app bui
 
 ---
 
-## 🧠 My Skill Sets (Animated 3D Style)
+## 🧠 My Skill Sets
 
 <div align="center">
 
@@ -64,10 +64,6 @@ I'm a passionate **DevOps engineer**, **AI developer**, and **mobile/web app bui
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammad-Ramazanovich&theme=tokyonight"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammad-Ramazanovich&theme=tokyonight"/>
 </div>
-
----
-
-## 🐍 Contribution Snake Animation
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Muhammad-Ramazanovich/snake/output/github-contribution-grid-snake.svg" />
