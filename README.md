@@ -21,81 +21,54 @@ I'm a passionate **DevOps engineer**, **AI developer**, and **mobile/web app bui
 
 ---
 
-## 🧠 My Skill Sets (3D Style)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,redux,nodejs,jquery,chai&theme=dark" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,angular,vue,django,mocha,jest&theme=dark" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,cassandra,oracle,mongodb&theme=dark" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=git,aws,docker,postman&theme=dark" />
-</p>
-
----
-
-## 📈 GitHub Stats
+## 🧠 My Skill Sets (Animated 3D Style)
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Muhammad-Ramazanovich&theme=tokyonight&hide_border=false"/>
-  </a>
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Ramazanovich&theme=tokyonight"/>
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammad-Ramazanovich&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammad-Ramazanovich&theme=tokyonight"/>
+
+### 🚀 Languages & Libraries
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,redux,nodejs,jquery&theme=dark&perline=8" />
+</a>
+<br><br>
+
+### 🧱 Frameworks
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,angular,vue,django,vitest,jest&theme=dark&perline=8" />
+</a>
+<br><br>
+
+### 🗄️ Databases
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,cassandra,oracle,mongodb&theme=dark&perline=6" />
+</a>
+<br><br>
+
+### ⚙️ Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,aws,docker,postman&theme=dark&perline=6" />
+</a>
+
 </div>
 
 ---
 
-<!-- GitHub Contribution Snake Animation -->
+## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Muhammad-Ramazanovich/Muhammad-Ramazanovich/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ramazanovich&theme=react-dark" />
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Ramazanovich&theme=darkhub&no-frame=true&column=7&margin-w=5" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ramazanovich&show_icons=true&theme=radical&rank_icon=percentile" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ramazanovich&layout=compact&theme=radical" />
 </div>
 
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muhammad-Ramazanovich&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad-Ramazanovich" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:DA70D6&height=120&section=footer"/>
 </p>
-
----
-
-### 🐍 Setup Snake Animation Action
-
-To enable the contribution graph animation:
-
-1. Create a `.github/workflows/snake.yml` file in your profile repository
-2. Paste the following:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"  # every day at midnight
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate GitHub contribution grid snake
-        uses: Platane/snk@master
-        with:
-          github_user_name: Muhammad-Ramazanovich
-          outputs: dist/github-contribution-grid-snake.svg
-      - name: Push to GitHub
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
----
 
 <!---
 Abdul-Alameda/Abdul-Alameda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
