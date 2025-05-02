@@ -55,25 +55,22 @@ I'm a passionate **DevOps engineer**, **AI developer**, and **mobile/web app bui
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Muhammad-Ramazanovich&theme=tokyonight&hide_border=false"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Ramazanovich&theme=github_dark" />
   <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Ramazanovich&theme=tokyonight"/>
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammad-Ramazanovich&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammad-Ramazanovich&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ramazanovich&show_icons=true&theme=vue-dark&hide_border=false&bg_color=0d1117&title_color=00bcd4&text_color=ffffff" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ramazanovich&layout=compact&theme=vue-dark&hide_border=false&bg_color=0d1117&title_color=00bcd4&text_color=ffffff" height="160" />
 </div>
+
+---
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Muhammad-Ramazanovich/snake/output/github-contribution-grid-snake.svg" />
 </div>
 
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c3ff,100:ffff1c&height=120&section=footer"/>
 </p>
+
 
 <!---
 Abdul-Alameda/Abdul-Alameda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
