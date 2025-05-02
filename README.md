@@ -21,7 +21,7 @@ I'm a passionate **DevOps engineer**, **AI developer**, and **mobile/web app bui
 
 ---
 
-## 🧠 My Skill Sets
+## 🧠 My Skill Sets (Animated 3D Style)
 
 <div align="center">
 
@@ -55,16 +55,19 @@ I'm a passionate **DevOps engineer**, **AI developer**, and **mobile/web app bui
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ramazanovich&theme=github-compact&hide_border=true&color=39d353&line=39d353&point=1f6feb&bg_color=0d1117" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Muhammad-Ramazanovich&theme=tokyonight&hide_border=false"/>
+  </a>
   <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Ramazanovich&theme=onestar&no-frame=true&column=7&margin-w=5" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ramazanovich&show_icons=true&theme=github_dark&rank_icon=percentile&include_all_commits=true&hide_border=true" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ramazanovich&layout=compact&theme=github_dark&hide=html&langs_count=8&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Ramazanovich&theme=tokyonight"/>
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammad-Ramazanovich&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammad-Ramazanovich&theme=tokyonight"/>
 </div>
 
 ---
+
+## 🐍 Contribution Snake Animation
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Muhammad-Ramazanovich/snake/output/github-contribution-grid-snake.svg" />
