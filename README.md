@@ -66,6 +66,12 @@ I'm a passionate **DevOps engineer**, **AI developer**, and **mobile/web app bui
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Muhammad-Ramazanovich/Muhammad-Ramazanovich/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c3ff,100:ffff1c&height=120&section=footer"/>
 </p>
