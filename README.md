@@ -21,26 +21,32 @@ I'm a passionate **DevOps engineer**, **AI developer**, and **mobile/web app bui
 
 ---
 
-## 🧠 My Skill Sets (Dark 3D + Animated Style)
+## 🧠 My Skill Sets (3D Style)
 
 <div align="center">
 
 ### 🚀 Languages & Libraries
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,js,typescript,java,react,nextjs,flutter&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,redux,nodejs,jquery,chai&theme=dark&perline=9" />
 </a>
 
-### 🛠 Frameworks & DevOps
+### 🧱 Frameworks
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=django,nodejs,kubernetes,docker,githubactions,terraform,linux&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,angular,vue,django,mocha,jest&theme=dark&perline=8" />
 </a>
 
-### ☁️ Cloud & Database
+### 🗄️ Databases
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,firebase,mongodb,postgres&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,cassandra,oracle,mongodb&theme=dark&perline=6" />
+</a>
+
+### ⚙️ Tools
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,aws,docker,postman&theme=dark&perline=6" />
 </a>
 
 </div>
@@ -66,8 +72,14 @@ I'm a passionate **DevOps engineer**, **AI developer**, and **mobile/web app bui
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Alameda&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Alameda&layout=compact&theme=tokyonight" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Muhammad-Ramazanovich&theme=tokyonight&hide_border=false"/>
+  </a>
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Ramazanovich&theme=tokyonight"/>
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammad-Ramazanovich&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammad-Ramazanovich&theme=tokyonight"/>
 </div>
 
 ---
@@ -75,12 +87,49 @@ I'm a passionate **DevOps engineer**, **AI developer**, and **mobile/web app bui
 <!-- GitHub Contribution Snake Animation -->
 
 <div align="center">
-  <img src="https://github.com/Abdul-Alameda/Abdul-Alameda/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Muhammad-Ramazanovich/Muhammad-Ramazanovich/output/github-contribution-grid-snake.svg" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdul-Alameda&label=Profile%20views&color=0e75b6&style=flat" alt="Abdul-Alameda" />
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-Ramazanovich&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad-Ramazanovich" />
 </p>
+
+---
+
+### 🐍 Setup Snake Animation Action
+
+To enable the contribution graph animation:
+
+1. Create a `.github/workflows/snake.yml` file in your profile repository
+2. Paste the following:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # every day at midnight
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub contribution grid snake
+        uses: Platane/snk@master
+        with:
+          github_user_name: Muhammad-Ramazanovich
+          outputs: dist/github-contribution-grid-snake.svg
+      - name: Push to GitHub
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+---
 
 <!---
 Abdul-Alameda/Abdul-Alameda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
