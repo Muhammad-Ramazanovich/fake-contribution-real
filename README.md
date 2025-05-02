@@ -21,31 +21,31 @@ I'm a passionate **DevOps engineer**, **AI developer**, and **mobile/web app bui
 
 ---
 
-## 🧠 My Skill Sets (Animated 3D Style)
+## 🧠 My Skill Sets (True 3D Style)
 
 <div align="center">
 
 ### 🚀 Languages & Libraries
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,redux,nodejs,jquery&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,redux,nodejs,jquery&theme=dark" />
 </a>
 <br><br>
 
 ### 🧱 Frameworks
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,angular,vue,django,vitest,jest&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,angular,vue,django,vite,webpack&theme=dark" />
 </a>
 <br><br>
 
 ### 🗄️ Databases
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,cassandra,oracle,mongodb&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,cassandra,mongodb&theme=dark" />
 </a>
 <br><br>
 
 ### ⚙️ Tools
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,aws,docker,postman&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=git,aws,docker,postman&theme=dark" />
 </a>
 
 </div>
@@ -55,19 +55,19 @@ I'm a passionate **DevOps engineer**, **AI developer**, and **mobile/web app bui
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ramazanovich&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ramazanovich&theme=react-dark&hide_border=true&bg_color=1A1B27" />
   <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Ramazanovich&theme=darkhub&no-frame=true&column=7&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Ramazanovich&theme=monokai&no-frame=true&column=7&margin-w=5" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ramazanovich&show_icons=true&theme=radical&rank_icon=percentile" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ramazanovich&show_icons=true&theme=radical&rank_icon=percentile&include_all_commits=true&hide_title=true" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ramazanovich&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ramazanovich&layout=compact&theme=radical&hide=html&langs_count=8" />
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:DA70D6&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DA70D6,100:7F00FF&height=120&section=footer"/>
 </p>
 
 <!---
