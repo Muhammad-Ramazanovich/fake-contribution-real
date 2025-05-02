@@ -23,33 +23,15 @@ I'm a passionate **DevOps engineer**, **AI developer**, and **mobile/web app bui
 
 ## 🧠 My Skill Sets (3D Style)
 
-<div align="center">
-
-### 🚀 Languages & Libraries
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,redux,nodejs,jquery,chai&theme=dark&perline=9" />
-</a>
-
-### 🧱 Frameworks
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,angular,vue,django,mocha,jest&theme=dark&perline=8" />
-</a>
-
-### 🗄️ Databases
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,cassandra,oracle,mongodb&theme=dark&perline=6" />
-</a>
-
-### ⚙️ Tools
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,aws,docker,postman&theme=dark&perline=6" />
-</a>
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,redux,nodejs,jquery,chai&theme=dark" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,angular,vue,django,mocha,jest&theme=dark" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,cassandra,oracle,mongodb&theme=dark" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=git,aws,docker,postman&theme=dark" />
+</p>
 
 ---
 
