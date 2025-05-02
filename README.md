@@ -53,22 +53,6 @@ I'm a passionate **DevOps engineer**, **AI developer**, and **mobile/web app bui
 
 ---
 
-## 🧩 Featured Projects
-
-### 🔹 SmartDevOps Dashboard
-
-> A CI/CD pipeline orchestrator with real-time monitoring and autoscaling support. Built with Next.js, Kubernetes, GitHub Actions, and Prometheus.
-
-### 🔹 AI Assistant API
-
-> Lightweight OpenAI-powered assistant backend for app integration. Built using FastAPI, Redis, and Firebase Auth.
-
-### 🔹 AutoForm UI Builder
-
-> Drag-and-drop UI form builder with live preview and export. Built in React with Tailwind, Zustand, and JSON schema.
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
