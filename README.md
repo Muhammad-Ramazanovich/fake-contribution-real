@@ -10,6 +10,7 @@ I'm a passionate **DevOps engineer**, **AI developer**, and **mobile/web app bui
 * 💼 Experienced with tools like **Docker**, **GitHub Actions**, **PostgreSQL**, **MongoDB**, **Python**, and **Node.js**
 * 🔧 Comfortable working with **AWS**, **Linux environments**, and **infrastructure as code** (e.g., Terraform)
 * 📁 Favorite projects: automation tools, smart UIs, API-first platforms
+* 📫 How to reach me abduldev.muhammad3589@gmail.com
 * 😄 Pronouns: **he/him**
 * ⚡ Fun fact: I love turning complex problems into simple, intuitive tools for real-world impact.
 
