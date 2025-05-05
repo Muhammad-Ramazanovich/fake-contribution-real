@@ -1,4 +1,4 @@
-### 👋 Hi there! I'm Abdul Alameda
+### 👋 Hi there! I'm Abdul Alameda ![Profile views](https://komarev.com/ghpvc/?username=Abdul-Alameda)
 
 I'm a passionate **DevOps engineer**, **AI developer**, and **mobile/web app builder** who loves crafting scalable, elegant, and impactful solutions.
 
