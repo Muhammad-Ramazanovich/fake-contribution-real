@@ -25,30 +25,35 @@ I'm a passionate **DevOps engineer**, **AI developer**, and **mobile/web app bui
 ## 🧠 My Skill Sets
 
 <div align="center">
-
+  
 ### 🚀 Languages & Libraries
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,redux,nodejs,jquery&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,redux,nodejs,jquery,swift,rust,go,kotlin,html,css,sass,dart,markdown,graphql,c,cpp,lua,docker,git,github,vscode,figma,postman,gcp,kubernetes,ansible,azure,vercel,webpack,linux,terraform,bash,wasm,solidity,threejs,nextjs,nestjs,bootstrap,electron,tailwindcss,npm&theme=dark" />
 </a>
 <br><br>
 
 ### 🧱 Frameworks
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,angular,vue,django,vite,webpack&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,angular,vue,django,vite,flutter,spring,express,nuxt,astro,rails,laravel,svelte,webpack&theme=dark" />
 </a>
 <br><br>
 
 ### 🗄️ Databases
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,cassandra,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,cassandra,sqlite,redis,firebase,supabase,elasticsearch,rabbitmq&theme=dark" />
 </a>
 <br><br>
 
 ### ⚙️ Tools
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,aws,docker,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,aws,docker,postman,vscode,figma,linux,vercel,azure,notion,nginx,gulp,npm&theme=dark" />
 </a>
+<br><br>
 
+### ☁️ Cloud & DevOps
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=terraform,ansible,jenkins,kubernetes,cloudflare,gcp,githubactions,heroku,nginx,prometheus&theme=dark" />
+</a>
 </div>
 
 ---
