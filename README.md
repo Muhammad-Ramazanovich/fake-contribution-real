@@ -28,7 +28,7 @@ I'm a passionate **DevOps engineer**, **AI developer**, and **mobile/web app bui
   
 ### 🚀 Languages & Libraries
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,redux,nodejs,jquery,swift,rust,go,kotlin,html,css,sass,dart,markdown,graphql,c,cpp,lua,docker,git,github,vscode,figma,postman,gcp,kubernetes,ansible,azure,vercel,webpack,linux,terraform,bash,wasm,solidity,threejs,nextjs,nestjs,bootstrap,electron,tailwindcss,npm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,redux,nodejs,jquery,swift,rust,go,kotlin,html,css,sass,dart,markdown,graphql,c,cpp,lua,docker,git,github,vscode,figma,postman,gcp,kubernetes,ansible,express,azure,vercel,webpack,linux,terraform,bash,wasm,solidity,threejs,nextjs,nestjs,bootstrap,electron,tailwindcss&theme=dark" />
 </a>
 <br><br>
 
