@@ -70,7 +70,7 @@ I'm a passionate **DevOps engineer**, **AI developer**, and **mobile/web app bui
 ---
 
 <div align="center">
- <img src="https://Muhammad-Ramazanovich.github.io/git-contribution/github-contribution-grid-snake.svg?timestamp=2025-05-06" />
+ <img src="https://Muhammad-Ramazanovich.github.io/fake-contribution-real/github-contribution-grid-snake.svg" />
 </div>
 
 <p align="center">
